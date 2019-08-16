@@ -1,10 +1,5 @@
 # jacobwilson2.github.io
 <html>
-  <head>
-    <title>Jacob Wilson</title>
-    <link rel="stylesheet" href="indexStyle.css">
-  </head>
-
   <body>
     <div>
     <img src="CDMlogo.png" align="left">
