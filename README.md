@@ -1,4 +1,4 @@
-# jacobwilson2.github.io
+# Jacob L. Wilson
 <img src="CDMlogo.png">
 <p class="top"><u>Jacob Wilson</u><p>
 <p class="mid"><a href="mailto:jacoblwilson.cs@gmail.com">jacoblwilson.cs@gmail.com</a></p>
