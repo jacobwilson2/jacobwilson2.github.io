@@ -4,19 +4,24 @@
 @import "{{ site.theme }}";
 p.top {
   padding-top: 40px;
-  padding-left: 42.5%;
+  text-align: center;
   font-size: 32px;
   font-weight: bold;
   font-family: palatino;
 }
 p.mid {
-  padding-left: 42.5%;
+  text-align: center;
   font-size: 16px;
   font-family: palatino;
 }
 p.bot{
-  padding-left: 45.75%;
-  padding-bottom: 80px;
+  text-align: center;
+  padding-bottom: 40px;
   font-size: 16px;
   font-family: palatino;
+}
+center {
+  padding-top: 30px;
+  font-family: palatino;
+  font-size: 24px;
 }
